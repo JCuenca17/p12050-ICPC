@@ -1,5 +1,3 @@
-package p12050;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
